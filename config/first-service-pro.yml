@@ -1,5 +1,8 @@
 server:
   port: 8011
+
+lcsc:
+  test: 11
   
 eureka:
   instance:
