@@ -2,7 +2,7 @@ server:
   port: 8011
 
 lcsc:
-  test: 11.1
+  test: 11.2
   
 eureka:
   instance:
